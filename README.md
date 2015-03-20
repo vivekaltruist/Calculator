@@ -1,0 +1,1 @@
+This is an android application implementing basic calculator with minimal functionalities
